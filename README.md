@@ -15,7 +15,7 @@ SubListColors o/p 4 - https://github.com/SakshiShetty19/Java-Programming/blob/ma
 
 DeletenthIndex o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b5_output.png
 
-## Likedlist Operations
+## Linkedlist Operations
 Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java
 
 LinkedListIterateFromSecond o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png
