@@ -20,7 +20,7 @@ Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/mai
 
 Linkedlist o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png
 
-Linkedlist o/p 2 - 
+Linkedlist o/p 2 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c2_output%20(2).png
 
 Linkedlist o/p 3 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c3_output.png
 
