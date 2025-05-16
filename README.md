@@ -18,15 +18,15 @@ Arraylist o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1
 ## Likedlist Operations
 Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java
 
-Linkedlist o/p 1 - 
+Linkedlist o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png
 
 Linkedlist o/p 2 - 
 
-Linkedlist o/p 3 - 
+Linkedlist o/p 3 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c3_output.png
 
-Linkedlist o/p 4 - 
+Linkedlist o/p 4 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c4_output.png 
 
-Linkedlist o/p 5 - 
+Linkedlist o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c5_output.png
 
 
 
