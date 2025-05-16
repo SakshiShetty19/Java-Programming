@@ -6,7 +6,11 @@ ListOperations output link – (https://github.com/SakshiShetty19/Java-Programmi
 Arraylist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/ArrayList.java
 
 Arraylist o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b1_output.png
+
 Arraylist o/p 2 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b2_outpt.png
+
 Arraylist o/p 3 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b3_output.png
+
 Arraylist o/p 4 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b4_output.png
+
 Arraylist o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b5_output.png
