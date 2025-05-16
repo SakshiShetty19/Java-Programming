@@ -18,7 +18,7 @@ DeletenthIndex o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/m
 ## Linkedlist Operations
 Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java
 
-LinkedListIterateFromSecond o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png
+IterateFromSecond o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png
 
 ReverseLinkedList o/p 2 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c2_output%20(2).png
 
