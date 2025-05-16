@@ -14,3 +14,22 @@ Arraylist o/p 3 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1
 Arraylist o/p 4 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b4_output.png
 
 Arraylist o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b5_output.png
+
+## Likedlist Operations
+Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java
+
+Linkedlist o/p 1 - 
+
+Linkedlist o/p 2 - 
+
+Linkedlist o/p 3 - 
+
+Linkedlist o/p 4 - 
+
+Linkedlist o/p 5 - 
+
+
+
+
+
+
